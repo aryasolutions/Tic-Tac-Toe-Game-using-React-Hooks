@@ -11,7 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
   monospace;
 }
+.Hide{
+  display: none;
+  background-color: #f83504;
 
+}
+.frist {
+  background-color: #131A28;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
 .app-header {
   display: flex;
   min-height: 100vh;
